@@ -1,0 +1,12 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "gulp": "*"
+  },
+  "author": "tkms0106",
+  "license": "ISC"
+}
