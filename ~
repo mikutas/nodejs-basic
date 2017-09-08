@@ -1,0 +1,16 @@
+set ignorecase
+set smartcase
+set wrapscan
+set incsearch
+set hlsearch
+set showmatch matchtime=1
+set cmdheight=2
+set laststatus=2
+set showcmd
+set smartindent
+set title
+set number
+syntax on
+set shiftwidth=4
+set tabstop=4
+set expandtab
